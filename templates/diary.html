@@ -1,0 +1,28 @@
+{% load static %}
+
+<html>
+    <head>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="{% static 'css/diary.css' %}">
+
+        <title>medical record</title>
+    </head>
+    <body>
+
+        <div class="main_title">
+            <h1><a href="/">Medical Record</a></h1>
+        </div>
+
+    {% for diary in diary_list %}
+    <div>
+        <p class="diary_title" ><h1><a href=""> 날짜:{{ diary.record_date }} </a> </h1></p>
+        <p>{{ diary.condition | linebreaksbr }}</p>     <!--linebreaksbr : 행이 바뀌면 문단으로 변환.-->
+    </div>
+    {% endfor %}
+
+
+    </body>
+
+
+</html>
