@@ -2,58 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2df056-4a47-4a4a-a359-c775fdca903c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1000.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/10039.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1008.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/10172.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/10430.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/10809.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/10869.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1152.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1157.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/11654.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/11718.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/11720.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/11721.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1316.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1546.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/15552.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/1924.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2438.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2439.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2440.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2441.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2442.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2448.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2557.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2577.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2675.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2739.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2741.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2839.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2908.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2920.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2941.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/4344.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/4673.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/5622.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/7287.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/8393.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/8958.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/9498.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/underscore-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/underscore-min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/node_modules/underscore/underscore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/pretty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/underscore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server_side_js/webserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/algorithm_2019/algorithm_2019/2775.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/diary_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network/network/network/echo_client.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network/network/network/echo_client.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network/network/network/echo_server.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/winter-2018/winter-2018/1780.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicord/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/medicord/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/record/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/record/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/record/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/diary.css" beforeDir="false" afterPath="$PROJECT_DIR$/record/static/css/diary.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/diary.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/diary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server_side_js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../server_side_js/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server_side_js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../server_side_js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../winter-2018/winter-2018/2805.cpp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,49 +28,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medicord/settings.py">
+        <entry file="file://$PROJECT_DIR$/templates/diary_edit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medicord/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-              <folding>
-                <element signature="e#632#664#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -111,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -121,10 +66,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/medicord/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sign_up/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -133,19 +96,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/diary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/css/diary.css">
+        <entry file="file://$PROJECT_DIR$/record/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/diary_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -155,10 +144,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>allo</find>
+      <find>id</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,21 +159,29 @@
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/medicord/urls.py" />
+        <option value="$PROJECT_DIR$/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/static/css/diary.css" />
+        <option value="$PROJECT_DIR$/record/static/css/diary.css" />
+        <option value="$PROJECT_DIR$/templates/diary_edit.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/record/urls.py" />
+        <option value="$PROJECT_DIR$/templates/diary.html" />
+        <option value="$PROJECT_DIR$/record/forms.py" />
+        <option value="$PROJECT_DIR$/record/views.py" />
+        <option value="$PROJECT_DIR$/templates/diary_detail.html" />
         <option value="$PROJECT_DIR$/record/admin.py" />
         <option value="$PROJECT_DIR$/record/models.py" />
         <option value="$PROJECT_DIR$/medicord/settings.py" />
-        <option value="$PROJECT_DIR$/medicord/urls.py" />
-        <option value="$PROJECT_DIR$/templates/post_list.html" />
-        <option value="$PROJECT_DIR$/record/urls.py" />
-        <option value="$PROJECT_DIR$/record/views.py" />
-        <option value="$PROJECT_DIR$/templates/diary.html" />
-        <option value="$PROJECT_DIR$/static/css/diary.css" />
+        <option value="$PROJECT_DIR$/sign_up/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="722" />
+    <option name="y" value="23" />
+    <option name="width" value="718" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,13 +204,12 @@
             <path>
               <item name="medicord" type="b2602c69:ProjectViewProjectNode" />
               <item name="medicord" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="record" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="medicord" type="b2602c69:ProjectViewProjectNode" />
               <item name="medicord" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="sign_up" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,6 +224,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/record" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/blog" />
@@ -282,16 +282,19 @@
       <workItem from="1546510908762" duration="8679000" />
       <workItem from="1546942527168" duration="2671000" />
       <workItem from="1547028381160" duration="123000" />
+      <workItem from="1547366954394" duration="10943000" />
+      <workItem from="1547638554765" duration="560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11473000" />
+    <option name="totallyTimeSpent" value="22976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14878398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15307583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,36 +308,36 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1509299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32771084" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14449213" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,16 +359,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medicord/settings.py">
+    <entry file="file://$PROJECT_DIR$/record/static/css/diary.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/medicord/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="300">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding>
             <element signature="e#632#664#0" expanded="true" />
@@ -373,10 +383,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/record/tests.py" />
     <entry file="file://$PROJECT_DIR$/record/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
@@ -385,45 +396,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/record/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/record/models.py">
+    <entry file="file://$PROJECT_DIR$/templates/diary_edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/record/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/record/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/diary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/diary.css">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/diary_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicord/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign_up/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

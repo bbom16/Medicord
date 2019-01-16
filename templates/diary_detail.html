@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="diary">
+        {% if diary.record_date %}
+            <div class="content">
+                <h1>{{ diary.record_date }}</h1>
+                <p>작성자 : {{ diary.author }}</p>
+                <p>{{ diary.meal_type }} 식사 시간 : {{ diary.meal_time }}</p>
+                <p>먹은 음식 : {{ diary.meal_contents }}</p>
+                <p>약 종류 : {{ diary.medicine_contents }}</p>
+                <p>약 복용시간 : {{ diary.medicine_time }}</p>
+                <p>통증 및 통증 정도 : {{ diary.pain }} {{ diary.pain_degree }} </p>
+                <p>컨디션 : {{ diary.condition|linebreaksbr }}</p>
+                <p>저장 날짜: {{ diary.published_time }}</p>
+            </div>
+        {% endif %}
+
+        {% if user.is_authenticated %}
+            <a class="btn btn-default" href="{% url 'diary_edit' pk=diary.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+        {% endif %}
+    </div>
+{% endblock %}
