@@ -1,19 +1,21 @@
-from django.shortcuts import render, redirect
-from .forms import UserForm
-from django.contrib.auth.models import User
-from django.contrib.auth import login
+from django.shortcuts import render
+from django.http import HttpResponseRedirect
+from django.urls import reverse
+from .forms import SignupForm
 
-# Create your views here.
-
+# 회원 가입 기능 구현.
 def signup(request):
+    signupform = SignupForm()
     if request.method == "POST":
-        form = UserForm(request.POST)
-        if form.is_valid():
-            new_user = User.objects.create_user(**form.cleaned_data)
-            login(request, new_user)
-            return redirect('diary')
+        signupform = SignupForm(request.POST, request.FILES)
+        if signupform.is_valid():
+            user = signupform.save(commit=False)
+            user.email = signupform.cleaned_data['email']
+            #user.avatar = signupform.cleaned_avatar()
+            user.save()
 
-    else:
-        form = UserForm()
-        return render(request, 'sign_up.html', {'form':form})
+            return HttpResponseRedirect(
+                reverse("diary")
+            )
+    return render(request, "sign_up.html", {"form": signupform})
 

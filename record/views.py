@@ -1,11 +1,18 @@
 from django.shortcuts import render, get_object_or_404, redirect
-from django.utils import  timezone
+from django.utils import timezone
 from .forms import PostForm
+from sign_in.views import signin, LoginForm
 from .models import Diary
 
 def diary_list(request):
     context = {}
-    context['diary_list'] = Diary.objects.all().order_by('record_date')
+    usr = request.user
+    # 자신이 작성한 글만 보이기
+    if request.user.is_authenticated:
+        context['usr'] = usr
+        context['diary_list'] = Diary.objects.filter(author=usr).order_by('record_date')
+    else:
+        return signin(request)
     return render(request, 'diary.html', context)   #request : 사용자가 요청한 것, context는 넘겨주는 인자
 
 def diary_detail(request, pk):

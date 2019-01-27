@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# 로그인 이후 경로 수정
+LOGIN_REDIRECT_URL = "/"
 
 # Application definition
 
@@ -84,6 +86,8 @@ DATABASES = {
     }
 }
 
+#user model은 MyUser를 사용한다.
+AUTH_USER_MODEL = 'sign_up.MyUser'
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators

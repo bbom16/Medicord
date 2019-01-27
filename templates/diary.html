@@ -1,10 +1,22 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    {% for diary in diary_list %}
-        <div>
-            <p class="diary_title" ><h1><a href="{% url 'diary_detail' pk=diary.pk %}"> 날짜:{{ diary.record_date }} </a> </h1></p>
-            <p>{{ diary.condition | linebreaksbr }}</p>     <!--linebreaksbr : 행이 바뀌면 문단으로 변환.-->
-        </div>
-    {% endfor %}
+    {% if user.is_authenticated %}
+        <!-- 게시글 없을 때 exists는 쿼리셋이 비어있는지 체크해주는 함수-->
+        {% if not diary_list.exists %}
+            <p> 게시글을 작성해주세요. </p>
+        {% endif  %}
+        {% for diary in diary_list %}
+            {% if diary.author == usr %}
+            <div>
+                <p class="diary_title" ><h1><a href="{% url 'diary_detail' pk=diary.pk %}"> 날짜:{{ diary.record_date }} </a> </h1></p>
+                <p>{{ diary.author.nickname }}</p>
+                <p>{{ diary.condition | linebreaksbr }}</p>     <!--linebreaksbr : 행이 바뀌면 문단으로 변환.-->
+            </div>
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        <p>hihihihihih</p>
+    {% endif %}
+
 {% endblock %}

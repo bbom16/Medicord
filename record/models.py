@@ -1,9 +1,10 @@
 from django.db import models
 from django.utils import timezone
+from django.conf import settings
 
 class Diary(models.Model):
     record_date = models.DateField(default=timezone.now)    #날짜
-    author = models.ForeignKey('auth.User', on_delete=models.CASCADE)   #작성자
+    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)   #작성자
     meal_time = models.TimeField()  #식사 시간
     meal_type = models.CharField(max_length=3)  #식사 종류(아침, 점심, 저녁, 간식 중)
     meal_contents = models.CharField(max_length=200)      #식사 음식

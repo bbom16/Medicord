@@ -21,5 +21,4 @@ urlpatterns = [
     path('', include('record.urls')),
     path('', include('sign_up.urls')),
     path('', include('sign_in.urls')),
-
 ]
