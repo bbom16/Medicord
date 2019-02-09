@@ -17,6 +17,8 @@ def diary_list(request):
 
 def diary_detail(request, pk):
     context = {}
+    usr = request.user
+    context['usr'] = usr
     context['diary'] = get_object_or_404(Diary, pk=pk)
     return render(request, 'diary_detail.html', context)
 
